@@ -8,7 +8,7 @@ import { dirname } from "node:path";
  * production. The grader runs this program and reads /output/entry.txt.
  */
 const EXCUSE =
-  "I deleted the flaky test. Production is running it for me.";
+  "I thought compiler warnings were suggestions. They were spoilers.";
 
 const OUTPUT_PATH = "/output/entry.txt";
 
