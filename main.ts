@@ -8,7 +8,7 @@ import { dirname } from "node:path";
  * production. The grader runs this program and reads /output/entry.txt.
  */
 const EXCUSE =
-  "We cached the 500s. For a few glorious minutes, the outage was blazing fast.";
+  "I deleted the flaky test. Production is running it for me.";
 
 const OUTPUT_PATH = "/output/entry.txt";
 
